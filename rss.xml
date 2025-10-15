@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>LaNasa Global Solutions Blog</title>
     <link>https://www.lanasaglobalsolutions.com</link>
@@ -7,13 +7,13 @@
                rel="self"
                type="application/rss+xml" />
     <description>AI Automation &amp; Business Insights</description>
-    <lastBuildDate>Wed, 15 Oct 2025 17:24:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 17:36:47 GMT</lastBuildDate>
   
   <item>
     <title>AI for Sales: 5-Phase System to Get More Customers</title>
     <link>https://www.lanasaglobalsolutions.com/blog/ai-for-sales-5-phase-system</link>
-    <guid>post_1760549061</guid>
-    <pubDate>Wed, 15 Oct 2025 17:24:21 GMT</pubDate>
+    <guid>post_1760549807</guid>
+    <pubDate>Wed, 15 Oct 2025 17:36:47 GMT</pubDate>
     <description><![CDATA[
       Use AI to automate prospecting, qualify leads, personalize offers, handle objections, and close faster. A step-by-step playbook to win more customers.
       <br><br><strong>Keywords:</strong> AI for sales, AI prospecting, sales automation, qualifying leads with AI, AI sales proposals
